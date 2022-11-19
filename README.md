@@ -14,5 +14,9 @@ The project is designed to add items in the list, reomve preceeding items from t
 Python 3.0
 
 
+## Feedback
+
+If you have any feedback, please reach out to us at shiza.huda421@gmail.com
+
 
 
